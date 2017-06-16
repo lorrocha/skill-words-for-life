@@ -1,0 +1,6 @@
+{ "intents": [
+    { "intent": "GetNewWordIntent" },
+    { "intent": "AMAZON.HelpIntent" },
+    { "intent": "AMAZON.StopIntent" },
+    { "intent": "AMAZON.CancelIntent" }
+]}

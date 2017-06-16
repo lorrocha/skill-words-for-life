@@ -1,0 +1,22 @@
+{
+  "name": "skill-word-of-the-day",
+  "version": "1.0.0",
+  "description": "Scrapes and gives a random word when queried.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "word",
+    "definition",
+    "vocabulary"
+  ],
+  "author": "Lorrayne Rocha",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "swagger-client": "^3.0.14"
+  }
+}
